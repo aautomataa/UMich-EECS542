@@ -1,2 +1,2 @@
 # UMich-EECS542
-Advanced Topics in Computer Vision (self-learning program)
+https://web.eecs.umich.edu/~ahowens/eecs542/w24/
